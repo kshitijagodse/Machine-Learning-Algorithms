@@ -1,0 +1,6 @@
+Number of Iterations 500
+Final Maximum classifications
+40
+finalweights
+[-1.7893265255001023, -1.6755371306059959, 0.6739182990200135, 0.5419999999999996]
+Equation of hyperplane -1.7893265255x + -1.67553713061y +0.67391829902z +0.542 = 0
